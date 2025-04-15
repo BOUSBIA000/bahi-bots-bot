@@ -4,9 +4,9 @@ from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 import os
 
 # Token & Webhook
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "8086056766:AAHts4apA7AUx4MatyTQfQnCLoYBOgWvHdA"
 WEBHOOK_PATH = f"/webhook/{TOKEN}"
-WEBHOOK_URL = f"https://your-app-name.onrender.com{WEBHOOK_PATH}"
+WEBHOOK_URL = f"https://bahi-bots-bot.onrender.com{WEBHOOK_PATH}"
 
 # Logging
 logging.basicConfig(
